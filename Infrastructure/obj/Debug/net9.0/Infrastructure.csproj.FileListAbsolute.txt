@@ -10,3 +10,4 @@
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Infrastructure/obj/Debug/net9.0/refint/Infrastructure.dll
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Infrastructure/obj/Debug/net9.0/Infrastructure.pdb
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Infrastructure/obj/Debug/net9.0/ref/Infrastructure.dll
+/Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Infrastructure/obj/Debug/net9.0/Infrastructure.sourcelink.json

@@ -1,0 +1,32 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Visual Studio Code files
+.vscode/
+
+# Rider IDE files
+.idea/
+
+# Build results
+bin/
+obj/
+
+# Published files
+publish/
+
+# NuGet Packages
+*.nupkg
+packages/
+*.snupkg
+
+# Resharper
+*_Resharper.*
+*.DotSettings.user
+
+# Local user-specific files
+*.dbmdl
+*.dbproj.schemaview
+
+server.sln.DotSettings.user

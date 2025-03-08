@@ -10,3 +10,4 @@
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Presentation/obj/Debug/net9.0/refint/Presentation.dll
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Presentation/obj/Debug/net9.0/Presentation.pdb
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Presentation/obj/Debug/net9.0/ref/Presentation.dll
+/Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Presentation/obj/Debug/net9.0/Presentation.sourcelink.json

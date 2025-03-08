@@ -13,3 +13,4 @@
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Application/obj/Debug/net9.0/refint/Application.dll
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Application/obj/Debug/net9.0/Application.pdb
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Application/obj/Debug/net9.0/ref/Application.dll
+/Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Application/obj/Debug/net9.0/Application.sourcelink.json

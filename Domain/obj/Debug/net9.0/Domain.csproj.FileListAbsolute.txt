@@ -9,3 +9,4 @@
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Domain/obj/Debug/net9.0/refint/Domain.dll
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Domain/obj/Debug/net9.0/Domain.pdb
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Domain/obj/Debug/net9.0/ref/Domain.dll
+/Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Domain/obj/Debug/net9.0/Domain.sourcelink.json

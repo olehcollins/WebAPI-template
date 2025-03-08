@@ -56,3 +56,4 @@
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/WebAPI/obj/Debug/net9.0/WebAPI.pdb
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/WebAPI/obj/Debug/net9.0/WebAPI.genruntimeconfig.cache
 /Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/WebAPI/obj/Debug/net9.0/ref/WebAPI.dll
+/Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/WebAPI/obj/Debug/net9.0/WebAPI.sourcelink.json

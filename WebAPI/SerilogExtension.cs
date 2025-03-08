@@ -27,7 +27,7 @@ public static class SerilogExtension
                 {
                     var queryString = httpContext.Request.QueryString.HasValue
                         ? httpContext.Request.QueryString.Value
-                        : "No QueryString";
+                        : "No QueryString Provided";
                     var host = httpContext.Request.Host.HasValue
                         ? httpContext.Request.Host.Value
                         : "No Host";
@@ -40,7 +40,6 @@ public static class SerilogExtension
                     // You can add more items, but do be mindful of logging sensitive data
                 };
             });
-
         return app;
     }
 }
