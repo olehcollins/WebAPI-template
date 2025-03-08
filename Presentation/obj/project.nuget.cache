@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hZrmHDrbRfg=",
+  "success": true,
+  "projectFilePath": "/Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Presentation/Presentation.csproj",
+  "expectedPackageFiles": [
+    "/Users/olehcollins/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

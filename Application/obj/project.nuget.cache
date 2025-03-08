@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "k3bybOZyBC8=",
+  "success": true,
+  "projectFilePath": "/Users/olehcollins/Documents - oleh’s Laptop/Programming/dotNET/server/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/olehcollins/.nuget/packages/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.sha512",
+    "/Users/olehcollins/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.11.0/fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+    "/Users/olehcollins/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/olehcollins/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/olehcollins/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.server.iml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Build and publish outputs
+bin/
+obj/
+
+# NuGet packages folder
+*.nupkg
+packages/
+*.snupkg
+
+# Visual Studio specific
+.vs/
+*.user
+*.suo
+
+# Rider IDE specific
+.idea/
+*.iml
+
+# Environment files
+.env
+
+# Mac system files
+.DS_Store

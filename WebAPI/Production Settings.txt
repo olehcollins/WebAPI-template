@@ -1,0 +1,24 @@
+"Serilog": {
+    "MinimumLevel": "Debug",
+    "WriteTo": [
+      {
+        "Name": "Console"
+      },
+      {
+        "Name": "File",
+        "Args": {
+          "path": "Logs/Requests-.txt",
+          "rollingInterval": "Day",
+          "restrictedToMinimumLevel": "Information"
+        }
+      },
+      {
+        "Name": "File",
+        "Args": {
+          "path": "Logs/Errors-.txt",
+          "rollingInterval": "Day",
+          "restrictedToMinimumLevel": "Error"
+        }
+      }
+    ],
+  }
