@@ -27,6 +27,7 @@ app.UseSwaggerDocumentation(app.Environment);
 
 // 4) Minimal API endpoints
 app.MapGet("/badRequest", () => Results.BadRequest(new { error = "This is a bad request error" }));
+app.MapGet("/goodRequest", () => Results.Ok("This is a good request"));
 
 //5) Signal to end the pipeline
 app.Run();
